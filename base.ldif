@@ -1,8 +1,8 @@
 dn: dc=davidroddick,dc=com
 objectClass: dcObject
 objectClass: organization
-dc: localnet
-o: localnet
+dc: davidroddick
+o: davidroddick
 
 dn: ou=People,dc=davidroddick,dc=com
 objectClass: organizationalUnit
