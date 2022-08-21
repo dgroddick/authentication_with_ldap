@@ -1,0 +1,17 @@
+dn: uid=droddick,ou=People,dc=davidroddick,dc=com
+objectClass: top
+objectClass: account
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: droddick
+uid: droddick
+uidNumber: 9999
+gidNumber: 100
+homeDirectory: /home/droddick
+loginShell: /bin/bash
+gecos: Super Linux User
+userPassword: {crypt}x
+shadowLastChange: 17058
+shadowMin: 0
+shadowMax: 99999
+shadowWarning: 7

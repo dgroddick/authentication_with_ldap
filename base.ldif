@@ -1,0 +1,14 @@
+dn: dc=davidroddick,dc=com
+objectClass: dcObject
+objectClass: organization
+dc: localnet
+o: localnet
+
+dn: ou=People,dc=davidroddick,dc=com
+objectClass: organizationalUnit
+ou: People
+
+dn: ou=Group,dc=davidroddick,dc=com
+objectClass: organizationalUnit
+ou: Group
+
